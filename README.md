@@ -58,8 +58,8 @@ This approach improves **early diagnosis**, allowing doctors to take preventive 
 ## 📂 **Project Structure**
 The code is available in Google Colab notebooks:
 
-- [Fraud Detection - Open in Colab](https://colab.research.google.com/github/mikeninerbravog/POC_GBM_FraudDetection/blob/master/POC_GBM_FraudDetection.ipynb)
-- [Medical Diagnosis - Open in Colab](https://colab.research.google.com/github/mikeninerbravog/POC_GBM_MedicalDiagnosis/blob/master/POC_GBM_MedicalDiagnosis.ipynb)
+- [Fraud Detection - Open in Colab](https://colab.research.google.com/github/mikeninerbravog/POC_ML_GBM/blob/master/POC_ML_GBM.ipynb)
+- [Medical Diagnosis - Open in Colab](https://colab.research.google.com/github/mikeninerbravog/POC_ML_GBM/blob/master/POC_ML_GBM.ipynb)
 
 Each notebook includes:
 - **Data preprocessing** to prepare datasets.
